@@ -1,0 +1,12 @@
+name: Asteroids
+version: ${project.version}
+main: me.jetp250.asteroids.AsteroidsPlugin
+api-version: 1.13
+authors: [jetp250]
+description: Adds a nifty new minigame for your players to enjoy!
+website: https://github.com/jetp250/GD-Contest-2020-1
+depend: [ProtocolLib]
+
+commands:
+  asteroids:
+    description: Base command
